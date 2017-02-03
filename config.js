@@ -20,7 +20,7 @@ self.$config = {
         {
             title: 'HiKitchen', type: 'dropdown',
             items: [
-                { title: '规范指引', path: '/hikitchen/hikitchen-guide' },
+                { title: '指南', path: '/hikitchen/hikitchen-guide' },
                 { title: 'UI组件', path: '/hikitchen/hikitchen-ui' }
             ]
         }
